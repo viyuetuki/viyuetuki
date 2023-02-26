@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Vitória+Yumi+Uetuki+Nicoleti;I'm+19+years+old;I'm+from+Brazil;I'm+graduating+Science,+Technology+and+Innovation;At+Ilum+School+of+Science;A+college+from+CNPEM;Brazilian+Center+for+Research;in+Energy+and+Materials;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
+  <a href="https://github.com/viyuetuki">
   <img src="https://github-readme-stats.vercel.app/api?username=viyuetuki&show_icons=true&count_private=true&hide_border=true&title_color=a960ff&icon_color=ef8539&text_color=fe428e&bg_color=2b213a" alt="Vitória Yumi Uetuki Nicoleti's GitHub stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viyuetuki&layout=compact&hide_border=true&title_color=a960ff&text_color=fe428e&bg_color=2b213a" />
 </div>
